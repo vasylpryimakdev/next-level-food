@@ -1,3 +1,3 @@
 export default function CommunityPage() {
-  return <div>CommunityPage</div>;
+  return <h1>Community</h1>;
 }

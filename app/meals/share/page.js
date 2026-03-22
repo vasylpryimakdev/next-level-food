@@ -1,3 +1,3 @@
-export default function CommunitySharePage() {
-  return <div>CommunitySharePage</div>;
+export default function ShareMealPage() {
+  return <h1>Share Meal</h1>;
 }
